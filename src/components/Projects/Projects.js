@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               title="Ashen Bloom"
               description="Ashen Bloom is a singleplayer third-person character-action souls-lite in a dying world where nature has fused with machines, corpses, and ruined cities. Team Project built in Unreal Engine 5.6 where my responsibilites where player creation, movement, attack, and animations as well as audio"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://shadowswordstudio.itch.io/ashen-bloom"
             />
           </Col>
 
