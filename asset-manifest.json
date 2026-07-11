@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.261c755a.css",
-    "main.js": "/portfolio/static/js/main.11943dd0.js",
+    "main.js": "/portfolio/static/js/main.20360968.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/roborun.mp4": "/portfolio/static/media/roborun.cb682405739a9a1fe6c9.mp4",
     "static/media/RoboRun.png": "/portfolio/static/media/RoboRun.9b4272c129c08cd03f55.png",
     "static/media/JF-Logo.png": "/portfolio/static/media/JF-Logo.899ca2330fa91f90c20e.png",
     "static/media/AshenBloom.png": "/portfolio/static/media/AshenBloom.6be66a5c93cd96d82ef0.png",
     "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Perforce.webp": "/portfolio/static/media/Perforce.38be0fce8600f2b840a8.webp",
     "static/media/Soldier.jpg": "/portfolio/static/media/Soldier.a43b3f4e2c58510f3c00.jpg",
     "static/media/programming.jpg": "/portfolio/static/media/programming.7f1b71a12a984bee0419.jpg",
+    "static/media/programming2.webp": "/portfolio/static/media/programming2.1a75b26e42cd38e883fd.webp",
     "static/media/Blender.png": "/portfolio/static/media/Blender.52347178c69c1d1cf153.png",
     "static/media/Figma.webp": "/portfolio/static/media/Figma.a17f6498e3789259da97.webp",
     "static/media/Jira.png": "/portfolio/static/media/Jira.7979f13ebf6d2b5c6afd.png",
@@ -25,11 +25,11 @@
     "static/media/Git.svg": "/portfolio/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
     "static/media/aseprite.svg": "/portfolio/static/media/aseprite.9ab4adb699aebed60912faef4d18bed7.svg",
     "main.261c755a.css.map": "/portfolio/static/css/main.261c755a.css.map",
-    "main.11943dd0.js.map": "/portfolio/static/js/main.11943dd0.js.map",
+    "main.20360968.js.map": "/portfolio/static/js/main.20360968.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.261c755a.css",
-    "static/js/main.11943dd0.js"
+    "static/js/main.20360968.js"
   ]
 }
