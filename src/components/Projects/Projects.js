@@ -41,7 +41,6 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
               isBlog={false}
               title="Robo Run Remake (Work In Progress)"
               description="A remade version of a prior team project Robo Run that was built in Unity. It will be fully remade in Unreal Engine and I will be responsible for player movement, animations, player attack with multiple weapons, audio, and some UI elements"
