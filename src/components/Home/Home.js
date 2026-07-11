@@ -66,7 +66,7 @@ function Home() {
               <ul className="home-about-social-links">
                 <li className="social-icons">
                   <a
-                    href="YOUR_GITHUB_URL"
+                    href="https://github.com/Jamie-Ford-GameDev"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour home-social-icons"
